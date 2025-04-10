@@ -10,7 +10,7 @@ Nesse exemplo realizei um cadastro de frota no setor automotivo
 
 ![Minha Imagem](Login.jpg)
 
-![Minha Imagem](cadastro.jpg)
+![Minha Imagem](Cadastro.jpg)
 
 ![Minha Imagem](forgot.jpg)
 
