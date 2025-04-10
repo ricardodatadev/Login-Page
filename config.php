@@ -1,5 +1,5 @@
 <?php
-$host = '';  // No Hostinger geralmente é 'localhost'
+$host = '';  // localhost
 $dbname = '';  // Nome do banco de dados
 $username = '';  // Usuário do banco de dados
 $password = '';  // Senha do banco de dados
